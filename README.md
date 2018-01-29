@@ -3,9 +3,9 @@
 * HELLO WORLD
 
 
-1. Post a selfie
+1. Here's a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: 00100sPORTRAIT_00100_BURST20180129141303295_COVER.jpg
 
-2. Tell me something interesting about yourself
+2. I am a Jr ECE and idk what to put here.
